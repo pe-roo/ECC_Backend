@@ -1,5 +1,0 @@
-SELECT*FROM sample21;
-DESC sample21;
-
-//SELECT 구와 WEHRE 구
-SELECT 열1, 열2 FROM 테이블명 WHERE 조건식
